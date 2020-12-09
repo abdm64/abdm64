@@ -10,8 +10,8 @@ express framework.
 
 Angular & react
 
-Mongodb
+Mongodb.
 
-Docker & Kubernetes
+Docker & Kubernetes.
 
-Feel free to check all my project here in github
+ welcome to my profile and feel free to check all my project here in github
