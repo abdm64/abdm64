@@ -1,12 +1,12 @@
 ### Hi  👋
 
-My name is Abdellah Messelleka and  i am Full Stack Developer mostly working with JavaScript& Typescript and Docker & K8s I have experience building API in my current company [Djezzy](http://www.djezzy.dz/) that serves millions of our clients on a daily basis ( E2E solution including conception & development & testing and deployment ).
+My name is Abdellah Messelleka and  i am Full Stack Engineer  mostly focused on  Backend using Node.js with JavaScript & Typescript , I have experience building API's in my current company [Djezzy](http://www.djezzy.dz/) that serves millions of our clients on a daily basis.
 
 ##  My stack 
 
-javascript & typescript and node for the backend. 
+Javascript & typescript and node for the backend. 
 
-express framework.
+Express framework.
 
 Angular & react
 
@@ -14,4 +14,4 @@ Mongodb.
 
 Docker & Kubernetes.
 
- welcome to my profile and feel free to check all my project here in github
+Welcome to my profile and feel free to check all my project here in github
